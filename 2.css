@@ -15,7 +15,7 @@ html {
 
 .num1 {
     width: 100%;
-    height: 700px;
+    height: 100%;
     background-image: url(page1_bg.jpg);
     background-size: cover;
     background-attachment: fixed;
